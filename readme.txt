@@ -1,0 +1,1 @@
+1. to start: In Command Line-> npm start
